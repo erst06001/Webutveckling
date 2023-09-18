@@ -1,0 +1,20 @@
+
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table ,th,td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th{background-color: rgb(166, 241, 241);}
+td{background-color: rgb(247, 247, 242);}
+
+h1{
+    text-align: center;
+    color: #494848;
+}
